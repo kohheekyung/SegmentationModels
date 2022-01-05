@@ -2,11 +2,11 @@
 Customization of pretrained segmentation models based on https://github.com/qubvel/segmentation_models (See details in this repository)
 
 #### Available models in this project 
-- ResNet (not pretrained)
-- UNET (pretrained)
-- Linknet (pretrained
-- FPN (pretrained
-- PSPNet(pretrained)
+- ResNet (it's not pretrained model)
+- UNET (pretrained available)
+- Linknet (pretrained available)
+- FPN (pretrained available)
+- PSPNet(pretrained available)
  
 #### Customize loss
 add loss functions under './base/loss_utils.py' (There is an example for segmentation_boundary_loss)
